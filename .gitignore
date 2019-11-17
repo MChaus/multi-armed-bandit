@@ -1,0 +1,9 @@
+
+### Jupyter notebook ###
+.ipynb_checkpoints/
+
+### VScode ###
+.vscode/
+
+### Python ###
+__pycache__
